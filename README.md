@@ -1,0 +1,4 @@
+SpamFilter
+==========
+
+Spamfilter with pybrain
